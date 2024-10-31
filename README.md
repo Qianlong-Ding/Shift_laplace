@@ -18,3 +18,5 @@ Usage
 
 3 Use the file complex_r_172.bin to plot the single frequency component graph. Use norm2*.bin files to plot the convergence curve graph.
 
+If you have any questions about the code, please feel free to contact me at the email: ding.qianlong@foxmail.com.
+
